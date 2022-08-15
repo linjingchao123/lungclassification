@@ -1,0 +1,17 @@
+./data/LIDC-IDRI/preprocessed_data_for_pytorch/benign_2d/new_OA_256x256x256_2D_2
+./data/LIDC-IDRI/preprocessed_data_for_pytorch/benign_2d/new_OA_256x256x256_2D_2
+Model: ./logs/middle_result_logs/benign/ranking_resnet_for_overall/note/ranking_resnet_1/4\supplementary_1_loss_class_loss_rangking_100.pth
+Test Accuracy = 1617.0 / 3376 = 0.4789691943127962
+AUC:
+ [[1330  746]
+ [1013  287]]
+Length of not good enough examples: 212
+
+./data/LIDC-IDRI/preprocessed_data_for_pytorch/benign_2d/new_OA_256x256x256_2D_2
+Model: ./logs/middle_result_logs/benign/ranking_resnet_for_overall/note/ranking_resnet_1/4\supplementary_1_loss_class_loss_rangking_50.pth
+Test Accuracy = 1776.0 / 3376 = 0.5260663507109005
+AUC:
+ [[1581  495]
+ [1105  195]]
+Length of not good enough examples: 194
+

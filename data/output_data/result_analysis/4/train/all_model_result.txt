@@ -1,0 +1,6 @@
+Model: ./logs/middle_result_logs/benign/ranking_resnet_for_overall/note/ranking_resnet_1/4\supplementary_1_loss_class_loss_rangking_50.pth
+Highest Accuracy: 0.5260663507109005
+AUC:
+[[1581  495]
+ [1105  195]]
+

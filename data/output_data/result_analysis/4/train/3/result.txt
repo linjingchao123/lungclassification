@@ -1,0 +1,1 @@
+./data/LIDC-IDRI/preprocessed_data_for_pytorch/benign_2d/new_OA_256x256x256_2D_2
